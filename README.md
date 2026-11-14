@@ -8,8 +8,7 @@ Thành viên: Nguyễn Trung Kiên (nhóm trưởng), Lương Công Hoan, Nguy�
 | File | Nội dung |
 |---|---|
 | `BaoCao_PTTK_CuaHangDienThoai.docx` / `.pdf` | Báo cáo chính (4 chương, 16 hình, Phụ lục A phân công) |
-| `Slide_ThuyetTrinh_15phut.pptx` | 15 slide chính (~15 phút) + slide dự phòng DP1–DP8; lời thoại nằm trong phần **Notes** |
-| `HoiDap_OnTap_BaoVe.docx` | 73 câu hỏi – đáp chung, phân công ôn tập, toàn bộ sơ đồ |
+| `Slide_ThuyetTrinh_15phut.pptx` | 15 slide chính (~15 phút, Kiên trình bày) + slide dự phòng DP1–DP8; lời thoại trong phần **Notes** |
 | `OnTap_Kien.docx` | Ôn tập riêng cho Kiên: Chương 3, sơ đồ tuần tự, DCD, GRASP/SOLID |
 | `OnTap_Hoan.docx` | Ôn tập riêng cho Hoan: UC, hoạt động, mô hình khái niệm, SSD, trạng thái, ERD |
 | `OnTap_Hung.docx` | Ôn tập riêng cho Hưng: bài toán, phạm vi, giả định, quy tắc, NFR, test case |
@@ -18,13 +17,13 @@ Thành viên: Nguyễn Trung Kiên (nhóm trưởng), Lương Công Hoan, Nguy�
 
 ## Phân công
 
-| Thành viên | Phần báo cáo | Slide trình bày | Đóng góp |
+| Thành viên | Phần báo cáo | Thầy hỏi về (nội dung slide) | Đóng góp |
 |---|---|---|---|
-| Nguyễn Trung Kiên | Chương 3: kiến trúc, 5 sơ đồ tuần tự, 3 DCD, GRASP/SOLID, truy vết; tổng hợp báo cáo | 10–15 (~6 phút) | 40% |
-| Lương Công Hoan | UC + đặc tả, sơ đồ hoạt động; Chương 2; sơ đồ trạng thái; ERD | 5–9 (~5 phút) | 35% |
-| Nguyễn Việt Hưng | Bài toán, phạm vi, giả định, quy tắc nghiệp vụ, tác nhân; NFR; test case; kết luận | 1–4 (~4 phút) | 25% |
+| Nguyễn Trung Kiên | Chương 3: kiến trúc, 5 sơ đồ tuần tự, 3 DCD, GRASP/SOLID, truy vết; tổng hợp báo cáo; **thuyết trình toàn bộ** | 10–15 + bổ sung mọi phần | 40% |
+| Lương Công Hoan | UC + đặc tả, sơ đồ hoạt động; Chương 2; sơ đồ trạng thái; ERD | 5–9 | 35% |
+| Nguyễn Việt Hưng | Bài toán, phạm vi, giả định, quy tắc nghiệp vụ, tác nhân; NFR; test case; kết luận | 1–4 | 25% |
 
-Thứ tự nói: Hưng → Hoan → Kiên.
+Kiên thuyết trình cả 15 slide. Khi thầy hỏi, ai phụ trách phần nào trả lời phần đó (xem file `OnTap_<tên>.docx`).
 
 ## Hình – file nguồn
 
