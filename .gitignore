@@ -1,0 +1,16 @@
+# Chỉ đưa lên những file cần thiết
+*
+!.gitignore
+!README.md
+!BaoCao_PTTK_CuaHangDienThoai.docx
+!BaoCao_PTTK_CuaHangDienThoai.pdf
+!Slide_ThuyetTrinh_15phut.pptx
+!HoiDap_OnTap_BaoVe.docx
+!OnTap_Kien.docx
+!OnTap_Hoan.docx
+!OnTap_Hung.docx
+!SoDo/
+!SoDo/*.drawio
+!SoDo/*.png
+# file khóa tạm của Word/PowerPoint
+~$*
