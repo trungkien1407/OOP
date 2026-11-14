@@ -8,7 +8,8 @@ Thành viên: Nguyễn Trung Kiên (nhóm trưởng), Lương Công Hoan, Nguy�
 | File | Nội dung |
 |---|---|
 | `BaoCao_PTTK_CuaHangDienThoai.docx` / `.pdf` | Báo cáo chính (4 chương, 16 hình, Phụ lục A phân công) – toàn bộ khổ dọc A4, có logo trường; sơ đồ vẽ dáng dọc để thẳng, riêng DCD-C và ERD xoay ngang chiếm trọn trang |
-| `Slide_ThuyetTrinh_15phut.pptx` | 15 slide chính (~15 phút, Kiên trình bày) + slide dự phòng DP1–DP8; lời thoại trong phần **Notes** |
+| `Slide_ThuyetTrinh_15phut.pptx` | 15 slide chính (~15 phút, Kiên trình bày); lời thoại trong phần **Notes** |
+| `Slide_DuPhong.pptx` | Slide dự phòng DP1–DP8: các sơ đồ còn lại, chỉ mở khi thầy hỏi; trang bìa ghi số hình và người trả lời |
 | `OnTap_Kien.docx` | Ôn tập riêng cho Kiên: Chương 3, sơ đồ tuần tự, DCD, GRASP/SOLID |
 | `OnTap_Hoan.docx` | Ôn tập riêng cho Hoan: UC, hoạt động, mô hình khái niệm, SSD, trạng thái, ERD |
 | `OnTap_Hung.docx` | Ôn tập riêng cho Hưng: bài toán, phạm vi, giả định, quy tắc, NFR, test case |
